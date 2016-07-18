@@ -1,7 +1,9 @@
 # Temp Conversion Utility
 
 A no-frills temperarture converion tool (with GUI!), written in Python 3.4.3
-Pretty lame tool if you ask me, but be kind, as this is really just a way to learn [Tkinter](https://wiki.python.org/moin/TkInter). 
+Pretty lame tool if you ask me, but it's really just an excuse to learn [Tkinter](https://wiki.python.org/moin/TkInter). 
+
+![ALt text](https://github.com/marshki/temp_conversion/blob/master/temp_convert.png?raw+true "temp")
 
 ## Usage 
 
