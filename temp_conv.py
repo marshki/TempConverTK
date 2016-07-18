@@ -1,15 +1,19 @@
 #!/bin/py
 # Python 3.4.3 
-
 import tkinter
+from tkinter import ttk 
 
 def convert(out_data, temp_data):
     """ Convert the value in temp_data, assumed to be in degrees Fahrenheit,
         to Celsius and store the result in out_data. """ 
-    f = temp_data.get()
-    out_data.set((f - 32) * 5 / 9)
+    try: 
+    	f = temp_data.get()
+    	out_data.set((f - 32) * 5 / 9)
+    except ValueError:
+        pass
 
 window = tkinter.Tk()
+window.title("Temp Tool")
 frame = tkinter.Frame(window)
 frame.pack()
 
