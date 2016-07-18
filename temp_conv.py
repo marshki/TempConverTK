@@ -2,8 +2,8 @@
 import tkinter
 
 def convert(out_data, temp_data):
-    """ Convert the value in temp_data, assumed to be in degrees Celsius,
-        to Fahrenheit and store the result in out_data. """ 
+    """ Convert the value in temp_data, assumed to be in degrees Fahrenheit,
+        to Celsius and store the result in out_data. """ 
     f = temp_data.get()
     out_data.set((f - 32) * 5 / 9)
 
