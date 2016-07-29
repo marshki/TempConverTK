@@ -2,8 +2,14 @@
 A no-frills temperarture converion utility written in Python and tested to work with Python 2 & 3.  
 A pretty lame tool, but it was an excuse to learn GUI development with: [Tkinter](https://wiki.python.org/moin/TkInter). 
 
-![ALt text](https://github.com/marshki/temp_conversion/blob/master/temp_utility.png?raw+true "temp_utility"):w
-![ALt text](https://github.com/marshki/temp_conversion/blob/master/temp_utility_menu.png?raw+true "temp_menu"):w
+Temp Utility               |  Menu
+:-------------------------:|:-------------------------:
+![](https://github.com/marshki/temp_conversion/blob/master/temp_utility.png)  |  ![](https://github.com/marshki/temp_conversion/blob/master/temp_utility_menu.png)
+
+
+
+#![ALt text](https://github.com/marshki/temp_conversion/blob/master/temp_utility.png?raw+true "temp_utility")
+#![ALt text](https://github.com/marshki/temp_conversion/blob/master/temp_utility_menu.png?raw+true "temp_menu")
 
 
 ## Usage 
