@@ -12,6 +12,7 @@ Run it from the shell with:
 
 ## History 
 First commit July 17, 2016 @20:42 ET. 
+
 Version 2.0 July 29, 2016. 
 
 ## License 
