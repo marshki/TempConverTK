@@ -8,7 +8,7 @@ Temp Utility               |  Menu
 
 ## Usage 
 Run it from the shell with: 
-`python3 temp_utility.py` 
+`python3 temp_utility_2.0.py` 
 
 ## History 
 First commit July 17, 2016 @20:42 ET. 
