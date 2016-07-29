@@ -2,7 +2,7 @@
 # Python2 OR 3
 
 try:
-    import tkinter as tk #it's common to import tkinter as "tk"
+    import tkinter as tk     
     from tkinter import ttk
 except ImportError:
     import Tkinter as tk
