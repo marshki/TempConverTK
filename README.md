@@ -6,12 +6,6 @@ Temp Utility               |  Menu
 :-------------------------:|:-------------------------:
 ![](https://github.com/marshki/temp_conversion/blob/master/temp_utility.png)  |  ![](https://github.com/marshki/temp_conversion/blob/master/temp_utility_menu.png)
 
-
-
-#![ALt text](https://github.com/marshki/temp_conversion/blob/master/temp_utility.png?raw+true "temp_utility")
-#![ALt text](https://github.com/marshki/temp_conversion/blob/master/temp_utility_menu.png?raw+true "temp_menu")
-
-
 ## Usage 
 Run it from the shell with: 
 `python3 temp_utility.py` 
