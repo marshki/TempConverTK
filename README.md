@@ -2,7 +2,7 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
 
 A no-frills temperarture converion utility written in Python and tested to work with Python 2 & 3.  
-A pretty lame tool, but it was an excuse to learn GUI development with: [Tkinter](https://wiki.python.org/moin/TkInter). 
+Sort of lame as a tool, but it was an excuse to learn GUI development with: [Tkinter](https://wiki.python.org/moin/TkInter). 
 
 Temp Utility               |  Menu
 :-------------------------:|:-------------------------:
