@@ -1,12 +1,11 @@
 #!/bin/py
-# Python2 OR 3
+#Python2 OR 3
 
-try:
+try: 
     import tkinter as tk  
-except ImportError:
+except ImportError: 
     import Tkinter as tk
 
-#Conversions 
 def convert_f2c(f_in):
     """ Convert the value in temp_data from Fahrenheit to Celsius and store the result in out_data. """
     return ((f_in - 32) * 5 / 9)
@@ -15,7 +14,6 @@ def convert_c2f(c_in):
     """ Convert the value in temp_data from Celsius to Fahrenheit and store the result in out-data. """
     return ((c_in * 1.8) + 32)
 
-#Frame 
 class MainWindow(tk.Frame):
     def __init__(self, master):
         tk.Frame.__init__(self, master)
