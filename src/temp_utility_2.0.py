@@ -3,11 +3,11 @@
 
 try:
     import tkinter as tk     
-    from tkinter import ttk
 except ImportError:
     import Tkinter as tk
     import ttk
- 
+
+# Conversions 
 def convert_f2c(f_in):
     """ Convert the value in temp_data from Fahrenheit to Celsius and store the result in out_data. """
     return ((f_in - 32) * 5 / 9)
@@ -15,7 +15,8 @@ def convert_f2c(f_in):
 def convert_c2f(c_in):
     """ Convert the value in temp_data from Celsius to Fahrenheit and store the result in out-data. """
     return ((c_in * 1.8) + 32)
- 
+
+# Frame 
 class MainWindow(tk.Frame):
     def __init__(self, master):
         tk.Frame.__init__(self, master)
