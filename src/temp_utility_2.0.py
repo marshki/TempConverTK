@@ -2,10 +2,9 @@
 # Python2 OR 3
 
 try:
-    import tkinter as tk     
+    import tkinter as tk  
 except ImportError:
     import Tkinter as tk
-    import ttk
 
 #Conversions 
 def convert_f2c(f_in):
