@@ -40,3 +40,8 @@ License
 LICENSE_ 
 
 .. _LICENSE: https://github.com/marshki/TempConverTK/blob/master/LICENSE 
+
+
+.. image:: https://api.codacy.com/project/badge/Grade/16d9869b33de4624a538397ce4b76cdf
+   :alt: Codacy Badge
+   :target: https://www.codacy.com/app/marshki/TempConverTK?utm_source=github.com&utm_medium=referral&utm_content=marshki/TempConverTK&utm_campaign=badger
