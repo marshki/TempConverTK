@@ -7,7 +7,7 @@ TempConverTK
 Temperature conversion tool using TK 
 ____________________________________
 
-A no-frills temperature conversion utility using a Tkinter_ frontend.  
+A no-frills temperature conversion utility using a Tkinter_ frontend:  
 
 .. _Tkinter: https://wiki.python.org/moin/TkInter) 
 
@@ -30,6 +30,16 @@ per your version of Python.
 
 Usage
 -----
+::
+    python tempconverTK.py 
+
+then, from the File menu seelct desired conversion type.   
+
+TODO
+----
+
+* Unit testting 
+* Integrate TravisCI
 
 Change Log
 ----------
