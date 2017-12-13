@@ -34,7 +34,7 @@ per your version of Python.
 Usage
 -----
 ::
-    python tempconverTK.py
+  python tempconverTK.py
 
 then, from the File menu select desired conversion type.
 
