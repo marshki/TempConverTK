@@ -14,17 +14,12 @@ Requirements
 Tkinter is built in to the OS X and Windows install of Python. 
 In Linux, you can install it with:
 
-================== 
- apt   
-------------------
-apt-get install -y 
-python-tk 
-  
-yum 
--------------------
-dnf install -y 
-python-tk
-===================  
++------------------+--------------+
+|apt               |yum           |
++==================+==============+
+|apt-get install -y|dnf install -y|
+|python-tk 	   |python3-tk    |
++------------------+--------------+  
 
 Usage
 -----
