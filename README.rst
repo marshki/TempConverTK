@@ -33,7 +33,7 @@ Usage
 ::
     python tempconverTK.py 
 
-then, from the File menu seelct desired conversion type.   
+then, from the File menu select desired conversion type.   
 
 TODO
 ----
