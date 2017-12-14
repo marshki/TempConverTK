@@ -33,10 +33,8 @@ per your version of Python.
 
 Usage
 -----
-::
-	tempconverTK.py
+From the File menu, select desired conversion type, then input value to convert.
 
-then, from the File menu, select desired conversion type.
 
 TODO
 ----
