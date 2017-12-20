@@ -12,7 +12,7 @@ ____________________________________
 
 A no-frills temperature conversion utility using a Tkinter_ frontend:
 
-.. _Tkinter: https://wiki.python.org/moin/TkInter)
+.. _Tkinter: https://wiki.python.org/moin/TkInter
 
 .. image:: https://github.com/marshki/TempConverTK/blob/master/docs/tempconverTK.png
 
@@ -26,7 +26,7 @@ In Linux, you can install it (as root) with:
 |apt               |yum           |
 +==================+==============+
 |apt-get install -y|dnf install -y|
-|python-tk 	   |python3-tk    |
+|python-tk 	       |python3-tk    |
 +------------------+--------------+
 
 per your version of Python.
