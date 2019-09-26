@@ -42,13 +42,6 @@ Usage
 -----
 From the File menu, select desired conversion type, then input value to convert.
 
-
-TODO
-----
-
-* Unit testting
-* Integrate TravisCI
-
 Change Log
 ----------
 CHANGELOG_
