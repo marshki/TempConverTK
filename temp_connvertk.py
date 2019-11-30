@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # pylint: disable=too-many-ancestors
+# pylint: disable=invalid-name
 
 """No-frills temperature conversion utility in Python2 & Python3.
 """
