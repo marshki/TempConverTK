@@ -33,7 +33,7 @@ In Linux, you can install it (as root) with:
 |apt                |yum           |
 +===================+==============+
 |apt-get install -y |dnf install -y|
-|python-tk 	    |python3-tk    |
+|python-tk 	        |python3-tk    |
 +-------------------+--------------+
 
 per your version of Python.
