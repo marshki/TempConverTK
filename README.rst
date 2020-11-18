@@ -26,14 +26,14 @@ A no-frills temperature conversion utility using a Tkinter_ frontend:
 
 Requirements
 ------------
-Tkinter is built in to the OS X and Windows install of Python.
-In Linux, you can install it (as root) with:
+Tkinter is built in to the macOS and Windows installs of Python.
+In GNU/Linux, you can install it (as root) with:
 
 +-------------------+--------------+
 |apt                |yum           |
 +===================+==============+
 |apt-get install -y |dnf install -y|
-|python-tk 	        |python3-tk    |
+|python-tk 	    |python3-tk    |
 +-------------------+--------------+
 
 per your version of Python.
