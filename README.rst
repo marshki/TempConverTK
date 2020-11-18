@@ -30,18 +30,10 @@ Tkinter is built in to the macOS and Windows installs of Python.
 In GNU/Linux, you can install it (as root) with:
 
 +------------------------------+--------------------------+
-|apt                           |yum                       |
+|apt                           |dnf                       |
 +==============================+==========================+
 |apt-get install -y python3-tk |dnf install -y python3-tk |
 +------------------------------+--------------------------+
-
-+------------+------------+-----------+
-| Header 1   | Header 2   | Header 3  |
-+============+============+===========+
-| body row 1 | column 2   | column 3  |
-+------------+------------+-----------+
-| body row 2 | Cells may span columns.|
-
 
 per your version of Python.
 
