@@ -31,6 +31,7 @@ A no-frills temperature conversion utility using a Tkinter_ frontend:
 Requirements
 ------------
 Tkinter is built in to the macOS and Windows installs of Python.
+
 In GNU/Linux, you can install it (as root) with:
 
 +------------------------------+--------------------------+
