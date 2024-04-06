@@ -1,4 +1,4 @@
-TempConverTK
+TempConverTK :thermometer:
 ========================================================================================
 |codacy| |maintained| |python| |mit| |open source|
 
