@@ -1,18 +1,22 @@
-============
 TempConverTK
-============
-.. image:: https://api.codacy.com/project/badge/Grade/16d9869b33de4624a538397ce4b76cdf
+========================================================================================
+|codacy| |maintained| |mit| |open source|
+
+.. |codacy| image:: https://api.codacy.com/project/badge/Grade/16d9869b33de4624a538397ce4b76cdf
   :target: https://www.codacy.com/app/marshki/TempConverTK?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marshki/TempConverTK&amp;utm_campaign=Badge_Grade
+    :alt: Codacy
 
-.. image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
+.. |maintained| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
    :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
+   :alt: Maintained
 
-.. image:: https://img.shields.io/badge/License-MIT-blue.svg
+.. |mit| image:: https://img.shields.io/badge/License-MIT-blue.svg
    :target: https://lbesson.mit-license.org/
+   :alt: MIT
 
-.. image:: https://badges.frapsoft.com/os/v3/open-source.svg?v=103
+.. |open source| image:: https://badges.frapsoft.com/os/v3/open-source.svg?v=103
    :target: https://github.com/ellerbrock/open-source-badges/
-
+   :alt: Open Source
 
 Temperature conversion tool using TK
 ____________________________________
