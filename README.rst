@@ -1,4 +1,4 @@
-TempConverTK :thermometer:
+TempConverTK :thermometer::balance_scale:
 ========================================================================================
 |codacy| |maintained| |python| |mit| |open source|
 
