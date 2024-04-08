@@ -35,7 +35,7 @@ class MainWindow(tk.Frame):
         self.label_in = tk.Label(self, text='Temperature in Fahrenheit:')
         self.label_in.pack()
 
-        self.temp_in = tk.DoubleVar(0)
+        self.temp_in = tk.DoubleVar(value=0)
         text = tk.Entry(self, textvar=self.temp_in)
         text.pack()
 
