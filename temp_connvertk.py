@@ -5,10 +5,7 @@
 """No-frills temperature conversion utility in Python2 & Python3.
 """
 
-try:
-    import tkinter as tk
-except ImportError:
-    import Tkinter as tk
+import tkinter as tk
 
 def convert_f2c(f_in):
     """Convert the value in temp_data from Fahrenheit to Celsius
@@ -72,9 +69,9 @@ class MainWindow(tk.Frame):
                 temp_out = convert_f2c(self.temp_in.get())
             else:
                 temp_out = convert_c2f(self.temp_in.get())
-            self.temp_out.set("{:.3f}".format(temp_out))
+            self.temp_out.set(f"{temp_out:.3f}")
         except ValueError as e:
-            self.temp_out.set("ERROR: {}".format(e))
+            self.temp_out.set(f"ERROR: {e}")
 
 class MenuBar(tk.Menu):
     """Menu bar class.
