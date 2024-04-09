@@ -41,12 +41,10 @@ In GNU/Linux, you can install it (as root) with:
 +------------------------------+--------------------------+
 |apt                           |dnf                       |
 +==============================+==========================+
-.. code-block:: Bash
-
 |apt-get install -y python3-tk |dnf install -y python3-tk |
 +------------------------------+--------------------------+
 
-per your version of Python.
+per your package manager.
 
 Usage
 -----
