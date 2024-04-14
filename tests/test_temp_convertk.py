@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+"""Unit test class.
+"""
+
 import unittest
 from temp_convertk import convert_f2c, convert_c2f
 
