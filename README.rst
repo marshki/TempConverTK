@@ -25,7 +25,7 @@ TempConverTK :thermometer::balance_scale:
 Temperature conversion tool using TK
 ____________________________________
 
-A no-frills temperature conversion utility using a Tkinter_ frontend:
+A no-frills temperature conversion utility for Python3, using a Tkinter_ frontend:
 
 .. _Tkinter: https://wiki.python.org/moin/TkInter
 
