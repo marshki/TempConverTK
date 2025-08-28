@@ -33,8 +33,7 @@ A no-frills temperature conversion utility for Python3, using a Tkinter_ fronten
 
 .. _Tkinter: https://wiki.python.org/moin/TkInter
 
-.. image:: https://github.com/marshki/TempConverTK/blob/master/docs/tempconverTK.png
-
+.. image:: https://github.com/marshki/TempConverTK/blob/main/docs/tempconverTK.png
 
 Requirements
 ------------
