@@ -3,11 +3,11 @@ TempConverTK :thermometer::balance_scale:
 |travis| |codacy| |maintained| |python| |mit| |open source|
 
 ..
-.. |travis| image:: https://app.travis-ci.com/marshki/TempConverTK.svg?token=G1dPbFHNrXoE9jd7LsbN&branch=master
+  .. |travis| image:: https://app.travis-ci.com/marshki/TempConverTK.svg?token=G1dPbFHNrXoE9jd7LsbN&branch=master
     :target: https://app.travis-ci.com/marshki/TempConverTK
     :alt: Travis
 ..
-.. |codacy| image:: https://api.codacy.com/project/badge/Grade/16d9869b33de4624a538397ce4b76cdf
+  .. |codacy| image:: https://api.codacy.com/project/badge/Grade/16d9869b33de4624a538397ce4b76cdf
   :target: https://www.codacy.com/app/marshki/TempConverTK?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marshki/TempConverTK&amp;utm_campaign=Badge_Grade
     :alt: Codacy
 
