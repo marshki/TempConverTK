@@ -6,9 +6,9 @@ TempConverTK :thermometer::balance_scale:
     :target: https://app.travis-ci.com/marshki/TempConverTK
     :alt: Travis
 
-.. |codacy| image:: https://api.codacy.com/project/badge/Grade/16d9869b33de4624a538397ce4b76cdf
-  :target: https://www.codacy.com/app/marshki/TempConverTK?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marshki/TempConverTK&amp;utm_campaign=Badge_Grade
-  :alt: Codacy
+.. |codacy| image:: https://app.codacy.com/project/badge/Grade/e4035b9e7d004df4aba57896e4e937fc    
+    :target: https://app.codacy.com/gh/marshki/TempConverTK/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade 
+    :alt: Travis
 
 .. |maintained| image:: https://img.shields.io/badge/Maintained%3F-yes-green.svg
    :target: https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity
